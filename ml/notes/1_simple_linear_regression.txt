@@ -1,0 +1,4 @@
+As a supervised ML
+
+our aim is to find the best fitting line(simple regression) or curve
+for our plotted data using the training algorithm

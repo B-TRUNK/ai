@@ -1,0 +1,40 @@
+ML Algorithms:
+1 - Supervised Learning
+2 - Unsupervised Learning
+
+Advanced :
+3 - Recommender System
+4 - Reinforcement Learning
+
+======================================================================
+*Supervised Learning:
+=====================
+- Regression
+- Classification
+
+in supervised Learning we feed our System with input/output
+labels .
+"correct label/output label" to be able to get the right 
+data
+
+then the algorithm you built starts to learn and knows how 
+is the process and the data are derived in a right matter
+
+X ---> Y (output label)
+
+but when Y is missing the System starts to predict it 
+based on previous examples
+
+for example : a classifier to identify if the input image is for a human
+or a cat 
+1 - we supply each class of both with different images of each
+2 - train the algorithm (model)
+3 - test with a new photo
+=======================================================================
+
+*Unsupervised Learning:
+=======================
+Find something '*Structural' in 'unlabled' data
+ 
+Maybe by 'Clustering Algorithm'  groups of tumors on graph
+ (Right and left groups/*Segments)
