@@ -2,3 +2,18 @@ As a supervised ML
 
 our aim is to find the best fitting line(simple regression) or curve
 for our plotted data using the training algorithm
+
+**Cost Function:
+    is the func which determines the effectiveness
+    of the model which we built
+    and also we can modify our model using that Function
+    in order to improve the model.
+
+    when we try to plot the best line to fit all possible x(i) ,y(i)
+    we are going to try get the same or near ratio for the predicted
+    output (y hat-predicted output) corresponding to the actual output
+
+    so the aim is to adjust a,b (coeffecient values) in the 
+    simple linear regression equation to make the result as near as
+    possible to the actual output.
+
